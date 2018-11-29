@@ -2,4 +2,7 @@ This is my first file.
 Adding a modification.
 For my third commit
 for my 4th commit
+
 conflict here
+will make a conflict here.
+
